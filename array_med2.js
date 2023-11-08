@@ -1,4 +1,4 @@
-// max min oloh daalgavar
+// array medium task 2 = find max and min
 
 let numbers = [1, 3, 5, 22, 89, 46, 17, 31];
 let result = [];

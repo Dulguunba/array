@@ -1,4 +1,4 @@
-//sort an array
+//array medium task 3 = sort an array
 
 let numbers = [5, 4, 3, 2, 1];
 

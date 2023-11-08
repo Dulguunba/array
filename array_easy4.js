@@ -1,4 +1,4 @@
-//tegsh eyreg toonuudiin niilber oloh
+//easy task4 - sum positive even number
 let numbers = [2, -3, 5, 6, -8, 10];
 let sum = 0;
 
