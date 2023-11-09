@@ -14,14 +14,4 @@ for (let i = 0; i < massive.length; i++) {
   numberofLegth.push(legth);
 }
 
-for (let j = 0; j < numberofLegth.length; j++) {
-  let score = 0;
-  for (let n = 0; n < numberofLegth.length; n++) {
-    if (numberofLegth[j] >= numberofLegth[n]) {
-      score++;
-    }
-  }
-  if (score == numberofLegth.length) {
-    console.log(numberofLegth[j]);
-  }
-}
+console.log(Math.max(...numberofLegth));
